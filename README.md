@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sanjish K C</h1>
 <h3 align="center">A Passionate Computer Science Instructor from Nepal</h3>
-<img align="right" src="https://previews.123rf.com/images/kennykiernanillustration/kennykiernanillustration1307/kennykiernanillustration130700075/20687005-happy-computer-nerd-at-his-computer.jpg" height="300" width="300">
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3wrlWnaZNhEskD558yDc9lwhhSe6jjj2zg&usqp=CAU" height="300" width="420">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanyamanav&label=Profile%20views&color=0e75b6&style=flat" alt="samanyamanav" /> </p>
 
 
 - 🌱 I’m currently preparing for **OSCP**
 
-- 💬 Ask me about **C , Cpp, Java, Cyber security**
+- 💬 Ask me about **C , C++, Java, Cyber Security**
 
 - 📫 How to reach me **sanjiishk@gmail.com**
 
