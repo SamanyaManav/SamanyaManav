@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samanyamanav&label=Profile%20views&color=0e75b6&style=flat" alt="samanyamanav" /> </p>
 
 
-- 🌱 I’m currently preparing for **OSCP**
+- 🌱 I’m currently preparing for  **####**
 
 - 💬 Ask me about **C , C++, Java, Cyber Security**
 
